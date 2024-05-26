@@ -14,7 +14,6 @@ time.sleep(1)
 
 print("Starting Speed Test...")
 time.sleep(2)
-
 print("Pinging The Server...")
 ping= s.results.ping
 time.sleep(1)
